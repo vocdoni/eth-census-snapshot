@@ -1,11 +1,21 @@
 {
   "snapshots": [
     {
+      "snapshotDate": "2025-06-17T01:11:00+02:00",
+      "censusRoot": "0x8cb081254f558ccc1431b52db710a5752ab88944b0cd2f4fcbebf245f328d207",
+      "participantCount": 8714,
+      "createdAt": "2025-06-17T01:11:27.493045451+02:00",
+      "minBalance": 100,
+      "queryName": "ethereum_balances_recent",
+      "filename": "2025-06-17-011100-ethereum_balances_recent-100.00.gz"
+    },
+    {
       "snapshotDate": "2025-06-17T01:05:00+02:00",
       "censusRoot": "0x8cb081254f558ccc1431b52db710a5752ab88944b0cd2f4fcbebf245f328d207",
       "participantCount": 8714,
       "createdAt": "2025-06-17T01:05:09.29724394+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-010500-ethereum-100.00.gz"
     },
     {
@@ -14,6 +24,7 @@
       "participantCount": 8714,
       "createdAt": "2025-06-17T01:04:11.717699225+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-010400-ethereum-100.00.gz"
     },
     {
@@ -22,6 +33,7 @@
       "participantCount": 8714,
       "createdAt": "2025-06-17T01:04:32.592023151+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-010400-ethereum-100.00.gz"
     },
     {
@@ -30,6 +42,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:59:21.185340078+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005900-ethereum-100.00.gz"
     },
     {
@@ -38,6 +51,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:59:49.551759606+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005900-ethereum-100.00.gz"
     },
     {
@@ -46,6 +60,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:58:23.577525509+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005800-ethereum-100.00.gz"
     },
     {
@@ -54,6 +69,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:58:50.679254899+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005800-ethereum-100.00.gz"
     },
     {
@@ -62,6 +78,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:57:20.363675655+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005700-ethereum-100.00.gz"
     },
     {
@@ -70,6 +87,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:57:50.863283829+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005700-ethereum-100.00.gz"
     },
     {
@@ -78,6 +96,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:56:21.064728619+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005600-ethereum-100.00.gz"
     },
     {
@@ -86,6 +105,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:56:50.552557267+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005600-ethereum-100.00.gz"
     },
     {
@@ -94,6 +114,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:55:50.449466544+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005500-ethereum-100.00.gz"
     },
     {
@@ -102,6 +123,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:55:21.136862057+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005500-ethereum-100.00.gz"
     },
     {
@@ -110,6 +132,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:54:19.691790674+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005400-ethereum-100.00.gz"
     },
     {
@@ -118,6 +141,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:54:49.819793748+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005400-ethereum-100.00.gz"
     },
     {
@@ -126,6 +150,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:53:21.52911508+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005300-ethereum-100.00.gz"
     },
     {
@@ -134,6 +159,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:53:51.462418281+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005300-ethereum-100.00.gz"
     },
     {
@@ -142,6 +168,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:52:49.808861566+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005200-ethereum-100.00.gz"
     },
     {
@@ -150,6 +177,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:52:21.352344436+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005200-ethereum-100.00.gz"
     },
     {
@@ -158,6 +186,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:51:51.94292824+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005100-ethereum-100.00.gz"
     },
     {
@@ -166,6 +195,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:51:21.251293222+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005100-ethereum-100.00.gz"
     },
     {
@@ -174,6 +204,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:50:51.762224085+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005000-ethereum-100.00.gz"
     },
     {
@@ -182,6 +213,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:50:20.289163094+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-005000-ethereum-100.00.gz"
     },
     {
@@ -190,6 +222,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:49:50.099150446+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004900-ethereum-100.00.gz"
     },
     {
@@ -198,6 +231,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:49:21.203645827+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004900-ethereum-100.00.gz"
     },
     {
@@ -206,6 +240,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:48:21.557563772+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004800-ethereum-100.00.gz"
     },
     {
@@ -214,6 +249,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:48:52.035770981+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004800-ethereum-100.00.gz"
     },
     {
@@ -222,6 +258,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:47:20.615744836+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004700-ethereum-100.00.gz"
     },
     {
@@ -230,6 +267,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:47:53.480281619+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004700-ethereum-100.00.gz"
     },
     {
@@ -238,6 +276,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:46:20.801489824+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004600-ethereum-100.00.gz"
     },
     {
@@ -246,6 +285,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:46:50.601461776+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004600-ethereum-100.00.gz"
     },
     {
@@ -254,6 +294,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:45:20.366053369+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004500-ethereum-100.00.gz"
     },
     {
@@ -262,6 +303,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:45:55.121346395+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004500-ethereum-100.00.gz"
     },
     {
@@ -270,6 +312,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:44:20.059333662+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004400-ethereum-100.00.gz"
     },
     {
@@ -278,6 +321,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:44:50.579821816+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004400-ethereum-100.00.gz"
     },
     {
@@ -286,6 +330,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:43:51.292622061+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004300-ethereum-100.00.gz"
     },
     {
@@ -294,6 +339,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:43:05.280970944+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-004200-ethereum-100.00.gz"
     },
     {
@@ -302,6 +348,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:30:09.621336595+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -310,6 +357,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:29:40.026656235+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -318,6 +366,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:39:42.350722528+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -326,6 +375,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:38:54.938296224+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -334,6 +384,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:32:09.021130539+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -342,6 +393,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:29:09.713300636+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -350,6 +402,7 @@
       "participantCount": 310337,
       "createdAt": "2025-06-17T00:24:01.717162915+02:00",
       "minBalance": 10,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-10.00.gz"
     },
     {
@@ -358,6 +411,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:40:13.649498665+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -366,6 +420,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:33:09.342053704+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -374,6 +429,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:31:10.648529795+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -382,6 +438,7 @@
       "participantCount": 310337,
       "createdAt": "2025-06-17T00:12:27.334534907+02:00",
       "minBalance": 10,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-10.00.gz"
     },
     {
@@ -390,6 +447,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:27:50.934731495+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -398,6 +456,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:28:23.051236703+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -406,6 +465,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:40:41.964236862+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -414,6 +474,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:41:40.431111848+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -422,6 +483,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:32:43.441282642+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -430,6 +492,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:35:13.710435939+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -438,6 +501,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:30:39.625190503+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -446,6 +510,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:31:39.305342549+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -454,6 +519,7 @@
       "participantCount": 41597,
       "createdAt": "2025-06-17T00:41:11.134513822+02:00",
       "minBalance": 100,
+      "queryName": "",
       "filename": "2025-06-17-000000-ethereum-100.00.gz"
     },
     {
@@ -462,6 +528,7 @@
       "participantCount": 310337,
       "createdAt": "2025-06-16T23:10:16.473166741+02:00",
       "minBalance": 10,
+      "queryName": "",
       "filename": "2025-06-16-230000-ethereum-10.00.gz"
     },
     {
@@ -470,6 +537,7 @@
       "participantCount": 310337,
       "createdAt": "2025-06-16T23:30:12.233283+02:00",
       "minBalance": 10,
+      "queryName": "",
       "filename": "2025-06-16-230000-ethereum-10.00.gz"
     },
     {
@@ -478,6 +546,7 @@
       "participantCount": 310337,
       "createdAt": "2025-06-16T23:20:25.530538787+02:00",
       "minBalance": 10,
+      "queryName": "",
       "filename": "2025-06-16-230000-ethereum-10.00.gz"
     }
   ]
