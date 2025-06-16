@@ -9,6 +9,14 @@
       "filename": "2025-06-16-220000-ethereum-0.25.gz"
     },
     {
+      "snapshotDate": "2025-06-16T22:00:00+02:00",
+      "censusRoot": "0x832f31d1490ea413864da0be8ec8e962ab0e208a0ca25178c908b5ad22c83f12",
+      "participantCount": 100,
+      "createdAt": "2025-06-16T22:32:00.084632453+02:00",
+      "minBalance": 0.25,
+      "filename": "2025-06-16-220000-ethereum-0.25.gz"
+    },
+    {
       "snapshotDate": "2025-06-16T21:00:00+02:00",
       "censusRoot": "0x832f31d1490ea413864da0be8ec8e962ab0e208a0ca25178c908b5ad22c83f12",
       "participantCount": 100,
@@ -31,14 +39,6 @@
       "createdAt": "2025-06-16T19:00:28.721112791+02:00",
       "minBalance": 0,
       "filename": "2025-06-16-190000-ethereum-0.25.gz"
-    },
-    {
-      "snapshotDate": "2025-06-16T18:00:00+02:00",
-      "censusRoot": "0x832f31d1490ea413864da0be8ec8e962ab0e208a0ca25178c908b5ad22c83f12",
-      "participantCount": 100,
-      "createdAt": "2025-06-16T18:00:25.866481357+02:00",
-      "minBalance": 0,
-      "filename": "2025-06-16-180000-ethereum-0.25.gz"
     }
   ]
 }
