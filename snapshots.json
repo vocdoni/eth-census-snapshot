@@ -9,6 +9,14 @@
       "filename": "2025-06-17-010400-ethereum-100.00.gz"
     },
     {
+      "snapshotDate": "2025-06-17T01:04:00+02:00",
+      "censusRoot": "0x8cb081254f558ccc1431b52db710a5752ab88944b0cd2f4fcbebf245f328d207",
+      "participantCount": 8714,
+      "createdAt": "2025-06-17T01:04:32.592023151+02:00",
+      "minBalance": 100,
+      "filename": "2025-06-17-010400-ethereum-100.00.gz"
+    },
+    {
       "snapshotDate": "2025-06-17T00:59:00+02:00",
       "censusRoot": "0x059d4d8e376df492e87e1cfff084c1a7eb391bf687c663eb144870892d73f50e",
       "participantCount": 41597,
