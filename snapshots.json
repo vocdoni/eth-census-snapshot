@@ -1,6 +1,13 @@
 {
   "snapshots": [
     {
+      "snapshotDate": "2025-06-16T20:00:00+02:00",
+      "censusRoot": "0x832f31d1490ea413864da0be8ec8e962ab0e208a0ca25178c908b5ad22c83f12",
+      "participantCount": 100,
+      "createdAt": "2025-06-16T20:00:29.058431118+02:00",
+      "filename": "2025-06-16-200000-ethereum-0.25.gz"
+    },
+    {
       "snapshotDate": "2025-06-16T19:00:00+02:00",
       "censusRoot": "0x832f31d1490ea413864da0be8ec8e962ab0e208a0ca25178c908b5ad22c83f12",
       "participantCount": 100,
