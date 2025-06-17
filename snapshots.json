@@ -10,6 +10,15 @@
       "filename": "2025-06-17-130200-ethereum_balances_recent-100.00.gz"
     },
     {
+      "snapshotDate": "2025-06-17T13:02:00+02:00",
+      "censusRoot": "0x12d915975ab52b32792b6a3b8e16f59467fe7d18f17c4d6a3c818f9061ae3400",
+      "participantCount": 8600,
+      "createdAt": "2025-06-17T13:02:40.604521975+02:00",
+      "minBalance": 100,
+      "queryName": "ethereum_balances_recent",
+      "filename": "2025-06-17-130200-ethereum_balances_recent-100.00.gz"
+    },
+    {
       "snapshotDate": "2025-06-17T13:01:00+02:00",
       "censusRoot": "0x12d915975ab52b32792b6a3b8e16f59467fe7d18f17c4d6a3c818f9061ae3400",
       "participantCount": 8600,
